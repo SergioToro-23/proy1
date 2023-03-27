@@ -14,3 +14,15 @@
 2023-03-27 17:58:26,629 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-27 17:58:26,629 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-27 17:58:26,631 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\xampp\htdocs\STORO_YLUNA\proy1\spring-boot-backend-apirest\src\test\resources
+2023-03-27 18:35:01,776 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 18:35:01,781 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-27 18:35:01,789 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\xampp\htdocs\STORO_YLUNA\proy1\spring-boot-backend-apirest\src\test\resources
+2023-03-27 18:36:57,954 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 18:36:57,957 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-27 18:36:57,977 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\xampp\htdocs\STORO_YLUNA\proy1\spring-boot-backend-apirest\src\test\resources
+2023-03-27 18:39:51,247 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-27 18:39:51,293 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 18:39:51,296 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\xampp\htdocs\STORO_YLUNA\proy1\spring-boot-backend-apirest\src\test\resources
+2023-03-27 18:39:52,324 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-27 18:39:52,325 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-27 18:39:52,330 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\xampp\htdocs\STORO_YLUNA\proy1\spring-boot-backend-apirest\src\test\resources
